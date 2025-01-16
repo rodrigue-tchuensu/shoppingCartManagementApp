@@ -56,4 +56,4 @@ Here is an exhaustive list of the endpoints provided by the application.
 #### Cart endpoints:
 ![Customer_endpoints](./documentation/images/img_02_cart_endpoints_paths.png)
 
-A Postman collection file named Shopping-cart-management-app.postman_collection.json is found at the root of the project. This can be imported into Postman to get ready to use queries that will facilitate testing the app.
+A Postman collection file named **Shopping-cart-management-app.postman_collection.json** is found at the root of the project. This can be imported into Postman to get ready to use queries that will facilitate testing the app.
